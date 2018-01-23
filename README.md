@@ -1,4 +1,4 @@
-# Java_SampleCode22
+# JavaSampleCode22
 スコープの理解
 
 #### 処理
